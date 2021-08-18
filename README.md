@@ -1,7 +1,7 @@
 # HOLA FRANDS 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://c.tenor.com/OMDSFr1PLZcAAAAS/dogix-cheems.gif">
+<img hight="300" width="300" alt="GIF" align="center" src="https://c.tenor.com/OMDSFr1PLZcAAAAS/dogix-cheems.gif">
 </div>
 
 </br>
