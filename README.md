@@ -9,8 +9,8 @@
 </br>
 
 
-☣ [b]ᴀʙᴏᴜᴛ ᴍᴇ
-
+☣ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
+```python
 class WhoAmI:
 	user = 'Aditya Singh'
    	current_edu = "Shri Ramdeobaba College of Engineering"
@@ -18,8 +18,8 @@ class WhoAmI:
    			'Config Maker',
    			'Php Developer',
    			'Web Developer'
-      'Ethical Hacking'
+                        'Ethical Hacking'
    			'Being up all Night chasing that ONE BUG...'
    		]
-   
+   ```
   
