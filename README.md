@@ -13,7 +13,7 @@
 ```python
 class WhoAmI:
 	user = 'MR SKYLAR'
-   	current_edu = "ELON MUSK UNIVERSITY OF FUTURE"
+   	current_edu = "ELON MUSK UNIVERSITY"
    	Current = [
    			'Config Maker',
    			'Php Developer',
