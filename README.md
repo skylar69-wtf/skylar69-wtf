@@ -12,8 +12,8 @@
 ☣ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 ```python
 class WhoAmI:
-	user = 'MR SKYLAR'
-   	current_edu = "ELON MUSK UNIVERSITY"
+	user = 'Aditya Singh'
+   	current_edu = "Shri Ramdeobaba College of Engineering"
    	Current = [
    			'Config Maker',
    			'Php Developer',
