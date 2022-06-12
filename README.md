@@ -15,7 +15,7 @@ class WhoAmI:
 	user = 'Aditya Singh'
    	current_edu = "Shri Ramdeobaba College of Engineering"
    	Current = [
-   			'Config Maker',
+   			'Api Developer',
    			'Php Developer',
    			'Web Developer'
                         'Ethical Hacking'
