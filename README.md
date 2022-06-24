@@ -20,7 +20,7 @@
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/php.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-☣ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
+## ☣ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 ```python
 class WhoAmI:
 	user = 'Aditya Singh'
