@@ -6,7 +6,7 @@
 
 </br>
 
-![Hits](https://gpvc.arturio.dev/skylar69-wtf)
+![Hits](https://hits.sh/github.com/skylar69-wtf.svg)
 
 </br>
 
